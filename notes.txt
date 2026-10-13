@@ -1,1 +1,2 @@
 Line 1: my first change
+Line 2: commit from vscode

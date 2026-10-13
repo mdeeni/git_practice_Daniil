@@ -1,1 +1,2 @@
 Line 1: starting git practice
+Line 2: commit from VS Code
